@@ -1,0 +1,8 @@
+.counter__bunton {
+  background-color: green;
+  color: white;
+  width: 60px;
+  font-size: 24px;
+  margin: auto;
+  cursor: pointer;
+}
